@@ -1,2 +1,2 @@
-# CuriositySW
-CuriositySW main site
+# CuriocitySW
+CuriocitySW main site
